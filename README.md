@@ -1,3 +1,4 @@
+![2023-12-11-15-13-57-893~2](https://github.com/ikatyang/emoji-cheat-sheet/assets/152941210/807fd864-e19a-48a1-96e2-2ff00c40a58e)
 # emoji-cheat-sheet
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
